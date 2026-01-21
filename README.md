@@ -125,7 +125,7 @@ Models were trained and evaluated using a **stratified train–test split** to p
 The trained model is deployed using **Streamlit**, providing real-time predictions through an intuitive user interface.
 
 **Application features:**
-- Input validation using physically meaningful magnitude ranges (10.0–30.0)  
+- Input validation using physically meaningful magnitude ranges (14.0–25.0)  
 - Probabilistic confidence scores for each prediction  
 - Instant classification from user-provided photometric values  
 
